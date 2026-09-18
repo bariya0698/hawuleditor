@@ -1,0 +1,125 @@
+
+<style>
+nav {
+    background: white;
+    padding: 15px;
+    margin-bottom: 30px;
+}
+
+nav a {
+    background: none;
+    color: darkblue;
+    padding: 10px 15px;
+    margin: 5px;
+    text-decoration: none;
+    font-weight: bold;
+}
+body {
+    ,background: #f8f5fb;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+h1 {
+    color: #111827;
+    font-size: 50px;
+    font-weight: bold;
+}
+p {
+    font-size: 22px;
+    color: black;
+    div {
+    background: white;
+    padding: 25px;
+    margin: 15px;
+    width: 30%px;
+    border-radius: 16px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.12);
+    h3 {.service-card {
+    display: inline-block;
+    vertical-align: top;
+    box-sizing: border-box;
+}
+    color: darkblue;
+    font-size: 25px;
+    margin-bottom: 10px;
+}h3 {
+    .service-card p {
+    font-size: 16px;
+}
+.service-card:hover {
+    transform: translateY(-5px);
+    transition: 0.3s;
+    @media (max-width: 600px) {
+    .service-card {
+        display: block;
+        width: 90%;
+        margin: 15px auto;
+    }
+    #portfolio img {
+    border-radius: 16px;
+    max-width: 90%;
+    height: auto;
+}
+}
+}
+    h2 {
+    color: darkblue;
+    font-size: 32px;
+    margin-top: 40px;
+}
+    color: darkblue;
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+}
+}
+a:hover {
+    opacity: 0.8;
+}
+</style>
+<nav>
+    <a href="#about">About</a>
+    <a href="#services">Services</a>
+    <a href="#contact">Contact</a>
+</nav>
+<h1>HAWUL EDITOR</h1>
+<p>Creative Design • Video Editing • Branding</p>
+<p>Professional Editing & Design</p>
+<a href="https://wa.me/919343556727">Contact Me</a>
+<img src="logo.png" width="180">
+<h2 id="services">My Services</h2>
+<h2 id="portfolio">My Portfolio</h2>
+<img src="portfolio.jpg" width="300">
+<h3>My Design Work</h3>
+<img src="portfolio2.jpg" width="300">
+<h3>Shop Board Design</h3>
+<div>
+  <div class="service-card">
+    <h3>🎨 Logo Design</h3>
+    <p>Professional logo design for your brand.</p>
+</div>
+
+<div>
+    <h3> <div class="service-card">
+    <p>Attractive thumbnails for YouTube and social media.</p>
+</div>
+
+<div>
+    <h3> <div class="service-card">
+    <p>Professional video editing for reels and videos.</p>
+</div>
+<h2 id="about">About Me</h2>
+<p>I am a passionate Graphic Designer and Video Editor. I create professional logos, thumbnails, banners and engaging videos for businesses and social media.</p>
+<style>
+a {
+    background: green;
+    color: white;
+    padding: 14px 28px;
+    text-decoration: none;
+    border-radius: 8px;
+}
+</style>
+<h2 id="contact">Contact Me</h2>
+<p>📱 Available for Freelance Work</p>
+<p>WhatsApp: Contact me for design and video editing.</p>
+<a href="https://wa.me/919343556727">Chat on WhatsApp</a>
